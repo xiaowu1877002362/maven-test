@@ -2,7 +2,7 @@ package com.cskt;
 
 public class git {
     public static void main(String[] args) {
-        System.out.println("hello git");
+        System.out.println("hello git1");
         System.out.println("hello git");
         System.out.println("hello git4");
         System.out.println("1341223123");
