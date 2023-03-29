@@ -9,6 +9,6 @@ public class git {
         System.out.println("1341223123");
         System.out.println("1232131");
         System.out.println("123131123");
-
+        System.out.println("push test");
     }
 }
